@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Login -->
+	<string name="app_name">Sample Account and Server</string>
+	<string name="hello_world">Hello world</string>
+	<string name="hint_username">Email</string>
+	<string name="hint_password">Password</string>
+	
+	<!-- Create new account -->
+	<string name="create_new_account">Create new account</string>
+	<string name="warning_account_already_exists">The account already exists</string>
+	<string name="add_new_account_done">New account correctly added</string>
+    <string name="error_creating_account">Error creating account</string>
+    <string name="warning_username_empty">The username is empty</string>
+	<string name="warning_password_empty">The password is empty</string>
+
+	<!-- Account manager -->
+    <string name="account_type">com.jiahaoliuliu.android.sampleaccountandserver</string>
+	
+</resources>
